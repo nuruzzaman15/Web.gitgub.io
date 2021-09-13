@@ -1,2 +1,2 @@
 View of my site:
-https://nuruzzaman15.github.io/Web.gitgub.io/.
+https://nuruzzamannirob.github.io/Resturant_Landing_page/
